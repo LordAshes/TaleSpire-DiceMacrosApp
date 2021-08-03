@@ -1,0 +1,23 @@
+﻿{
+	"macros": {
+		"Initiative": "1d20+8",
+		"Shortbow": "1d20+10",
+		"Shortbow Damage": "2d6",
+		"Electric Arc": "1d20+9",
+		"Electric Arc Damage": "2d4+3",
+		"Ray Of Front": "1d20+9",
+		"Ray Of Front Damage": "2d4+3",
+		"Shortbow 2nd Attack": "1d20+5",
+		"RayOfFront 2nd Attack": "1d20+9",
+		"Perception": "1d20+8",
+		"Fortitude": "1d20+9",
+		"Reflexes": "1d20+11",
+		"Will": "1d20+8",
+		"Arcana": "1d20+9",
+		"Diplomacy": "1d20+7",
+		"Survival": "1d20+6",
+		"Stealth": "1d20+11",
+		"Thievery": "1d20+11",
+		"Special": "1d20+11/Damage:2D6"
+	}
+}
