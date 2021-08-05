@@ -59,6 +59,10 @@ namespace TalespireDiceMacros
 
         private void NewButton_Click(string name, string formula)
         {
+            if(formula=="?")
+            {
+                formula = Microsoft.VisualBasic.Interaction.InputBox("Roll Formula:", "Roll...", "");
+            }
             Process proc = new Process();
             proc.StartInfo = new ProcessStartInfo()
             {
